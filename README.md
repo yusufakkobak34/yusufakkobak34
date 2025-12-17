@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **Mobile Development,Backend Development,etc.**
 
-- 👨‍💻 All of my projects are available at [yusufakkobak.com.tr](yusufakkobak.com.tr)
 
 - 💬 Ask me about **flutter,kotlin,swiftui,etc.**
 
